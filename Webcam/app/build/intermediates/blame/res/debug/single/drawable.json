@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semi_transparent.xml",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\drawable\\semi_transparent.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semi_transparent.xml",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\drawable\\semi_transparent.xml"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semi_transparent.xml",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\drawable\\semi_transparent.xml"
+    }
+]

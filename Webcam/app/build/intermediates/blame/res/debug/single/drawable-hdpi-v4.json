@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_webcam.png",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_webcam.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_webcam.png",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_webcam.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_webcam.png",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_webcam.png"
+    }
+]

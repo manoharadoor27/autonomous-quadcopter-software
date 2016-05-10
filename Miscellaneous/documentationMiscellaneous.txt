@@ -1,0 +1,11 @@
+This work (file, document) is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/. 
+
+Date of creation: June-July 2015 and Attribution: Prasad N R as a representative of (unregistered) company TraQuad.
+
+This folder 'miscellaneous' contains softwares which were developed for potential usage in TraQuad's software.
+These may be integrated before selling the finalised product; But, more importantly, they are beautiful softwares which can empower hackers, DIY innovators and large corporations alike by offering some of the best and optimised codes which could not be found anywhere on the internet; They are '10x' cheaper (ultrasonics), 10x computationally-efficient (path planning and ultrasonics range) and solve some of the problems of 're-invention of wheel' problems of software.
+
+Beaglebone was the component of the earlier phase of the project. But, due to lack of USB speed (which requires the re-configuration of FTDI D2XX EEPROM which can ultimately corrupt the board if the USB programmer software is wrongly used), the board was discarded for the project and Android on-board webcam app development phase began which marked the beginning of phase 2 of the project.
+
+Path planning algorithm had been developed as a driver-assist system and hadn't been released for the same reason (as only the core software had been developed). It runs on Octave compilers and MATLAB (without any modification).
+There are plans of integrating this into TraQuad software along with many other functionalities and features which are being considered for beta release (SVM, GrabCut, WaterShed, OpenFabMap, multi-core processing, GPU FastCV intefration, recording videos etc).

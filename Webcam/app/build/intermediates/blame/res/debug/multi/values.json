@@ -1,0 +1,1214 @@
+[
+    {
+        "outputFile": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 57,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 55,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 43,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 67,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 67,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 48,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 48,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 52,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 52,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 77,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 77,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 50,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 50,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 37,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 37,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 43,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 43,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 49,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 49,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 57,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 57,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 57,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 57,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 55,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 55,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 58,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 58,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 45,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 45,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 53,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 54,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 54,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 60,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 60,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 54,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 54,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 56,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 57,
+                        "endOffset": 70
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 57,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 55,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 43,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 67,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 67,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 48,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 48,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 52,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 52,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 77,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 77,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 50,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 50,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 37,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 37,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 43,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 43,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 49,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 49,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 57,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 57,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 57,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 57,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 55,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 55,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 58,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 58,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 45,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 45,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 53,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 54,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 54,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 60,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 60,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 54,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 54,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 56,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 57,
+                        "endOffset": 70
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 57,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 55,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 43,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 67,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 67,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 48,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 48,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 52,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 52,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 77,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 77,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 50,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 50,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 37,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endColumn": 37,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 43,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 43,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 49,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 49,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 57,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 57,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 57,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 57,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 55,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 55,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 58,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 58,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 45,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 45,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 53,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 54,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 54,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 60,
+                    "endOffset": 1335
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 60,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1340,
+                    "endColumn": 54,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 54,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 56,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 57,
+                        "endOffset": 70
+                    }
+                }
+            }
+        ]
+    }
+]

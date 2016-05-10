@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\foreground.xml",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\menu\\foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\foreground.xml",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\menu\\foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidWorkspace\\WebcamTraquadCustomOpenCV24\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidWorkspace\\Webcam-masterCustomOpenCV24\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\build\\intermediates\\res\\merged\\debug\\menu\\foreground.xml",
+        "source": "E:\\TraQuad\\TraQuad_college_project\\AndroidApps\\WebcamTraquadCollegeOpenCV24\\app\\src\\main\\res\\menu\\foreground.xml"
+    }
+]
