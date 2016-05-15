@@ -45,21 +45,33 @@ void setup() {
   
   rollServo.write(90);
   pitchServo.write(90);
-  throttleServo.write(servoLow);
-  yawServo.write(servoHigh);
-  delay(6000);
+  throttleServo.write(90);
+  yawServo.write(90);
 }
 
+int pwm = 1950;
+
 void loop(){
-  rollServo.write(servoHigh);
-  pitchServo.write(servoHigh);
-  throttleServo.write(servoHigh);
-  yawServo.write(servoHigh);
-  delay(2000);
-  rollServo.write(servoLow);
-  pitchServo.write(servoLow);
-  throttleServo.write(servoLow);
-  yawServo.write(servoLow);
-  delay(2000);
+  if(Serial.available())
+  { pwm = Serial.parseInt();  }
+
+  if(pwm==1950)
+  {
+    rollServo.write(90);
+    pitchServo.write(90);
+    throttleServo.write(servoHigh);
+    yawServo.write(90);
+    delay(200);
+  }
+
+  if(pwm==1050)
+  {
+    rollServo.write(90);
+    pitchServo.write(90);
+    throttleServo.write(servoLow);
+    yawServo.write(90);
+    delay(200);
+  }
+  Serial.println(pwm);
 }
 
