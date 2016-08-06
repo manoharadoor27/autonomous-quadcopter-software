@@ -144,6 +144,8 @@ public class JpegFactory extends Application implements Camera.PreviewCallback, 
             //Log.e(TAG, "Scaling ratio:" + String.valueOf(scalingRatio));
             //Log.e("Test", "Captured Bitmap's dimensions: (" + templateCapturedBitmapHeight + "," + templateCapturedBitmapWidth + ")");
 
+            Log.e(TAG, "Prasad is a tutor of Manohar!");
+
             //Scale the actual features of the image
             int flag = this.globalClass.getFlag();
             if(flag==0) {
